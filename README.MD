@@ -26,3 +26,5 @@ That's it.
 You can also create your own logos, but these can only be 100x100 or 264x40 pixels in size.
 File format is bmp with 8BIT.
 Be careful, larger images appear in a bootloop.
+
+Thanks to MinUI for the Script :)
