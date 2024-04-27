@@ -1,3 +1,5 @@
+Caution: this currently only works with revision 3 of the M17
+
 Boot logo replacement for the M17.
 
 What you need:
